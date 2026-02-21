@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "auth-some-database-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "36fda513-2546-40ce-8f7c-f3e1123114d7",
+			"database_name": "auth-some"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
